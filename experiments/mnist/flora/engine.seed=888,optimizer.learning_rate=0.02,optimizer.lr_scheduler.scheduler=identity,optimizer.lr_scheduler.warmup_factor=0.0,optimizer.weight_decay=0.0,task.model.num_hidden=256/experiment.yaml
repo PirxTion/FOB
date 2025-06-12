@@ -1,0 +1,26 @@
+engine:
+  plot: true
+  seed:
+  - 42
+  - 123
+  - 888
+optimizer:
+- kappa: 100
+  learning_rate:
+  - 0.0001
+  - 0.0005
+  - 0.001
+  - 0.005
+  - 0.01
+  - 0.02
+  lr_scheduler:
+    scheduler: identity
+    warmup_factor: 0.0
+  name: flora
+  rank: 16
+  weight_decay: 0.0
+task:
+  max_steps: 2000
+  model:
+    num_hidden: 256
+  name: mnist
