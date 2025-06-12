@@ -1,0 +1,4 @@
+epoch,lr-FloraAdamFactoredMAS/pg1,lr-FloraAdamFactoredMAS/pg2,step,train_acc,train_loss
+,0.001,0.001,49,,
+0,,,49,0.71875,-0.6271222829818726
+,0.001,0.001,99,,
