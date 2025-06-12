@@ -1,0 +1,35 @@
+engine:
+  plot: true
+  seed:
+  - 42
+  - 123
+  - 888
+optimizer:
+- learning_rate:
+  - 0.0001
+  - 0.0005
+  - 0.001
+  - 0.005
+  - 0.01
+  - 0.02
+  learning_rate_scheduler:
+    scheduler: identity
+  name: adamw_baseline
+  weight_decay: 0.0
+- kappa: 100
+  learning_rate:
+  - 0.0001
+  - 0.0005
+  - 0.001
+  - 0.005
+  - 0.01
+  - 0.02
+  learning_rate_scheduler:
+    scheduler: identity
+  name: flora
+  rank: 8
+task:
+  max_steps: 2000
+  model:
+    num_hidden: 256
+  name: mnist
