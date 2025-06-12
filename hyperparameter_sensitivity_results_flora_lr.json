@@ -3,144 +3,144 @@
         "optimizer": "flora",
         "learning_rate": 0.0001,
         "seed": 42,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.8396000266075134
+        "test_accuracy": 0.8374000191688538
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.0001,
         "seed": 123,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.8339999914169312
+        "test_accuracy": 0.7520999908447266
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.0001,
         "seed": 888,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.7601000070571899
+        "test_accuracy": 0.7657999992370605
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.0005,
         "seed": 42,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.9162999987602234
+        "test_accuracy": 0.9376999735832214
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.0005,
         "seed": 123,
-        "rank": 8,
-        "kappa": 100,
-        "test_accuracy": 0.9296000003814697
-    },
-    {
-        "optimizer": "flora",
-        "learning_rate": 0.0005,
-        "seed": 888,
-        "rank": 8,
-        "kappa": 100,
-        "test_accuracy": 0.9308000206947327
-    },
-    {
-        "optimizer": "flora",
-        "learning_rate": 0.001,
-        "seed": 42,
-        "rank": 8,
-        "kappa": 100,
-        "test_accuracy": 0.9380999803543091
-    },
-    {
-        "optimizer": "flora",
-        "learning_rate": 0.001,
-        "seed": 123,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
         "test_accuracy": 0.9370999932289124
     },
     {
         "optimizer": "flora",
+        "learning_rate": 0.0005,
+        "seed": 888,
+        "rank": 16,
+        "kappa": 100,
+        "test_accuracy": 0.9376000165939331
+    },
+    {
+        "optimizer": "flora",
+        "learning_rate": 0.001,
+        "seed": 42,
+        "rank": 16,
+        "kappa": 100,
+        "test_accuracy": 0.9466000199317932
+    },
+    {
+        "optimizer": "flora",
+        "learning_rate": 0.001,
+        "seed": 123,
+        "rank": 16,
+        "kappa": 100,
+        "test_accuracy": 0.9430999755859375
+    },
+    {
+        "optimizer": "flora",
         "learning_rate": 0.001,
         "seed": 888,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.9369000196456909
+        "test_accuracy": 0.9473999738693237
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.005,
         "seed": 42,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.9254000186920166
+        "test_accuracy": 0.9409999847412109
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.005,
         "seed": 123,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.926800012588501
+        "test_accuracy": 0.9398000240325928
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.005,
         "seed": 888,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.9265999794006348
+        "test_accuracy": 0.9394999742507935
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.01,
         "seed": 42,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.9090999960899353
+        "test_accuracy": 0.9341999888420105
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.01,
         "seed": 123,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.9190999865531921
+        "test_accuracy": 0.8378999829292297
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.01,
         "seed": 888,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.914900004863739
+        "test_accuracy": 0.9308000206947327
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.02,
         "seed": 42,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.9017999768257141
+        "test_accuracy": 0.6662999987602234
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.02,
         "seed": 123,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.9093000292778015
+        "test_accuracy": 0.6762999892234802
     },
     {
         "optimizer": "flora",
         "learning_rate": 0.02,
         "seed": 888,
-        "rank": 8,
+        "rank": 16,
         "kappa": 100,
-        "test_accuracy": 0.8277000188827515
+        "test_accuracy": 0.8335000276565552
     }
 ]

@@ -1,0 +1,110 @@
+[
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.0001,
+        "seed": 42,
+        "test_accuracy": 0.8554999828338623
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.0001,
+        "seed": 123,
+        "test_accuracy": 0.76910001039505
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.0001,
+        "seed": 888,
+        "test_accuracy": 0.8543999791145325
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.0005,
+        "seed": 42,
+        "test_accuracy": 0.9596999883651733
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.0005,
+        "seed": 123,
+        "test_accuracy": 0.9575999975204468
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.0005,
+        "seed": 888,
+        "test_accuracy": 0.9574000239372253
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "seed": 42,
+        "test_accuracy": 0.9695000052452087
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "seed": 123,
+        "test_accuracy": 0.9697999954223633
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.001,
+        "seed": 888,
+        "test_accuracy": 0.9702000021934509
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.005,
+        "seed": 42,
+        "test_accuracy": 0.9778000116348267
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.005,
+        "seed": 123,
+        "test_accuracy": 0.9768000245094299
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.005,
+        "seed": 888,
+        "test_accuracy": 0.9751999974250793
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "seed": 42,
+        "test_accuracy": 0.9710999727249146
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "seed": 123,
+        "test_accuracy": 0.9706000089645386
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "seed": 888,
+        "test_accuracy": 0.9714999794960022
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.02,
+        "seed": 42,
+        "test_accuracy": 0.958299994468689
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.02,
+        "seed": 123,
+        "test_accuracy": 0.9528999924659729
+    },
+    {
+        "optimizer": "adam",
+        "learning_rate": 0.02,
+        "seed": 888,
+        "test_accuracy": 0.9602000117301941
+    }
+]
