@@ -6,13 +6,7 @@ engine:
   - 888
 optimizer:
 - kappa: 100
-  learning_rate:
-  - 0.0001
-  - 0.0005
-  - 0.001
-  - 0.005
-  - 0.01
-  - 0.02
+  learning_rate: 0.0005
   lr_scheduler:
     scheduler: identity
     warmup_factor: 0.0
