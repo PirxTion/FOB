@@ -4,18 +4,20 @@ task:
   model:
     num_hidden: 256
 optimizer:
-  - name: adamw_baseline
+  - name: adam
     learning_rate: [1.0e-4, 5.0e-4, 1.0e-3, 5.0e-3, 1.0e-2, 2.0e-2]
     weight_decay: 0.0
     lr_scheduler:
       scheduler: identity
+      warmup_factor: 0.0
   - name: flora
-    rank: 8
+    rank: 16
     learning_rate: [1.0e-4, 5.0e-4, 1.0e-3, 5.0e-3, 1.0e-2, 2.0e-2]
     kappa: 100
     lr_scheduler:
       scheduler: identity
     weight_decay: 0.0
+    warmup_factor: 0.0
   # - name: floraAF
   # - name: floraDR
 engine:
