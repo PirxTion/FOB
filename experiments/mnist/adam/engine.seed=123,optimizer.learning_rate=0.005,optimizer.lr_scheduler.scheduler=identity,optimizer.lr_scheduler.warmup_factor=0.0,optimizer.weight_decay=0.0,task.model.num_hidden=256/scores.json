@@ -1,0 +1,13 @@
+{
+    "mean_optimizer_time_ms": 5.702903507135894,
+    "test_final": [
+        {
+            "test_acc": 0.9768000245094299
+        }
+    ],
+    "test_best": [
+        {
+            "test_acc": 0.9767999649047852
+        }
+    ]
+}
